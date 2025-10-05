@@ -10,7 +10,7 @@ I enjoy end-to-end work: from data and features to models, APIs, simple UIs, and
 ---
 
 ### Stack
-Python · Pandas · NumPy · scikit-learn · CatBoost · XGBoost · LightGBM  
+Python · SQL · PostgreSQL · MySQL · Pandas · NumPy · scikit-learn · CatBoost · XGBoost · LightGBM  
 FastAPI · Pydantic · Uvicorn · Streamlit · Airflow · Docker · git  
 Exploring: PyTorch · HuggingFace · Diffusion Models · GNNs · AutoML · AI · RL
 
