@@ -17,7 +17,7 @@ I enjoy end-to-end work: from data and features to models, APIs, simple UIs, and
 **MLOps/App:** FastAPI · Streamlit · Airflow · Docker/Compose · MLflow  
 **Data & Scale:** Spark (PySpark) · PostgreSQL · MySQL  
 **XAI/Visualization:** SHAP · LIME · Plotly/Dash · Matplotlib · ydata-profiling  
-**Domains:** Tabular ML · Recommenders · NLP · Time Series · BioML (ESM/Proteins) · CV  
+**Domains:** Tabular ML · Recommenders · NLP · Time Series · BioML · CV  
 
 **Exploring:** Ray/Dask · GNNs · SSL
 
