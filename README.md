@@ -18,7 +18,7 @@ I like end-to-end work: data → features → models → **APIs** → simple **U
 **XAI/Visualization:** SHAP · LIME · Plotly/Dash · Matplotlib · ydata-profiling  
 **Domains:** Tabular ML · Recommenders · NLP · Time Series · BioML · CV
 
-**Exploring:** Ray/Dask · GNNs · SSL · ESM · AudioML
+**Exploring:** Ray/Dask · GNNs · SSL · ESM · AudioML · Rust
 
 ---
 
