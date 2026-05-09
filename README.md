@@ -4,7 +4,7 @@
 I like end-to-end work: data → features → models → **APIs** → simple **UIs** → orchestration.
 
 > **Focus:** applied ML for business (analytics & decision support), reproducible pipelines, model calibration & evaluation.  
-> **Interests:** neural networks & AI, biomedical ML, causal inference, interpretable models, CV, NLP/linguistics, music, Time Series.
+> **Interests:** neural networks & AI, MLOps, biomedical ML, causal inference, interpretable models, CV, NLP/linguistics, music, Time Series.
 
 ---
 
