@@ -1,6 +1,6 @@
 # Hi there 👋
 
-**I’m Konstantin Nikiforov** — MD, Molecular Geneticist, and Machine Learning Engineer.
+**I am Konstantin Nikiforov** — MD, Molecular Geneticist, and Machine Learning Engineer.
 
 I build end-to-end ML systems: **data acquisition → feature engineering → modeling → evaluation → APIs → user-facing applications → reproducible pipelines**.
 
